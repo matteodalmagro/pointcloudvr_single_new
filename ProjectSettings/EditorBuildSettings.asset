@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/M_ExpScene1.unity
+    guid: 53860bc67295f1549bcadcc3ef85a2e8
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/M_StartTesting.unity
+    guid: 0ee0628d1fadfb2438a46b5a9841bea9
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/M_SceneShow.unity
+    guid: de88c242e55f7d648a9d28bd3f800726
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/M_SceneVote.unity
+    guid: 9cfdaf208c3084045b3eac00f6389274
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/M_EndTraining.unity
+    guid: 2830d37652dd25b47a61dcb024bbdc13
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/M_PauseScene.unity
+    guid: c0e5fa32c88f72b479033587d556a9bc
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/M_EndExperiment.unity
+    guid: 2fafab4bb93f8b848bb6ea62f9b7b4f2
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/DEV_TEST/M_GulzData.unity
+    guid: 859bd0f81cc209f478ebeff1cf283b71
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/DEV_TEST/M_ReplayScene2.unity
+    guid: 2bffe481d68d9804a86d053b4f551c52
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/DEV_TEST/M_ViewTest.unity
+    guid: 17d27d5ff77be4542954ba7150b8de74
+  - enabled: 0
+    path: Assets/Scenes/MatteoScenes/OLD/M_PauseSceneOLD.unity
+    guid: a7b2cbeb8fffd484083e036c88f5b10b
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/TRAINING/M_StartTraining.unity
+    guid: e54fb8c1d2d4e1e43b369b434dc05ee9
+  - enabled: 1
+    path: Assets/Scenes/MatteoScenes/TRAINING/M_EndTraining.unity
+    guid: 532099cf407dbdc488dc305c62fab849
+  - enabled: 0
+    path: Assets/Scenes/MatteoScenes/OLD/M_SceneVote_OLD.unity
+    guid: 15966ce63fd320e4997804a83a11cccf
+  - enabled: 0
+    path: Assets/Scenes/MatteoScenes/OLD/M_StartTesting_OLD.unity
+    guid: 675c78a74511ce346b28808fc158cf6a
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: a8f4f9b7c40d300418ecfbfb28e180e9,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 99529c491cbb6084fa0a502761aacd94,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: acf0702864b3e23488cddcb6ca288d68,
+      type: 2}
